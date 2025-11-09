@@ -4,3 +4,5 @@ I am an ETH Zurich CSE/Stats student currently working on **MarkTeX**:
 - see [an example](https://ansamuel.com/notes/introprob/04/)
 - and another example:
 
+![another example of MarkTeX](example_marktex.png)
+
