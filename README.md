@@ -7,5 +7,3 @@ I am an ETH Zurich CSE/Stats student currently working on **MarkTeX**:
 ---
 
 ![another example of MarkTeX](example_marktex.png)
-
----
